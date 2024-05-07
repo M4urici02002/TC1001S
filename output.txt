@@ -1,0 +1,38 @@
+
+
+Hola TU_NOMBRE, bienvenido al curso.
+
+El script en ejecución es: ./hello.sh
+
+El directorio actual es:
+/home/m4urici02002/semana_tec
+
+
+y su contenido es:
+
+total 16
+drwxr-xr-x 2 m4urici02002 m4urici02002 4096 May  7 11:29 .
+drwxr-x--- 6 m4urici02002 m4urici02002 4096 May  7 10:52 ..
+-rwxr-xr-x 1 m4urici02002 m4urici02002  215 May  7 11:27 hello.sh
+-rw-r--r-- 1 m4urici02002 m4urici02002  157 May  7 11:29 output.txt
+
+
+
+
+Hola Mauricio, bienvenido al curso.
+
+El script en ejecución es: ./hello.sh
+
+El directorio actual es:
+/home/m4urici02002/semana_tec
+
+
+y su contenido es:
+
+total 16
+drwxr-xr-x 2 m4urici02002 m4urici02002 4096 May  7 11:29 .
+drwxr-x--- 6 m4urici02002 m4urici02002 4096 May  7 10:52 ..
+-rwxr-xr-x 1 m4urici02002 m4urici02002  215 May  7 11:27 hello.sh
+-rw-r--r-- 1 m4urici02002 m4urici02002  577 May  7 11:30 output.txt
+
+
